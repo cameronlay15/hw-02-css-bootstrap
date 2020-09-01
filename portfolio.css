@@ -1,3 +1,21 @@
 body{
     background-image: url("./assets/ignasi_pattern_s.png");
 }
+
+#portfolioheader{ color: teal;
+
+}
+
+.container{background: whitesmoke;
+    height: 50%;
+    width: 70%;
+    padding: 20px;
+    margin: 10%; 
+}
+
+.portfolio-box img {
+    width: 100%}
+
+    
+
+

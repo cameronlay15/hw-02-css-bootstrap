@@ -2,7 +2,7 @@ body{
     background-image: url("./assets/ignasi_pattern_s.png");
 }
 
-.container{
+.containerone{
     background: whitesmoke;
     height: 50%;
     width: 50%;
@@ -19,3 +19,39 @@ body{
 #aboutmeheader{ color: teal;
 
 }
+
+body{
+    background-image: url("./assets/ignasi_pattern_s.png");
+}
+
+#contactheader{ color: teal;
+
+}
+
+.containertwo{
+    background:whitesmoke;
+    width: 60%;
+    height: 50;
+    padding: 20px;
+    margin: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+body{
+    background-image: url("./assets/ignasi_pattern_s.png");
+}
+
+#portfolioheader{ color: teal;
+
+}
+
+.containerthree{background: whitesmoke;
+    height: 50%;
+    width: 70%;
+    padding: 20px;
+    margin: 10%; 
+}
+
+.portfolio-box img {
+    width: 100%}
